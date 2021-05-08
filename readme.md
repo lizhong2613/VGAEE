@@ -20,7 +20,7 @@ The attribute network can be seen everywhere in real life. Different from the pl
 
 
 <p align="center">
-  <img src="_images/auc.png" width="500"  />
+  <img src="_images/auc.png" width="800"  />
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ The attribute network can be seen everywhere in real life. Different from the pl
   <img src="_images/BlogCatalog_alpha.png" width="420"  />
 </p>
 <p align="center">
-  <img src="_images/recall_at_k.png" width="420"  />
+  <img src="_images/recall_at_k.png" width="800"  />
 </p>
 
 
